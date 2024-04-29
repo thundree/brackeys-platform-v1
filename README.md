@@ -1,2 +1,5 @@
 # brackeys-platform-v1
-A perfect clone of Brackeys first Godot's tutorial with some minor improvements - A 2D platform They called "Princess Dragon Slayer"
+A perfect clone of Brackeys' first Godot 4.2+ tutorial, a 2D platform they called "Princess Dragon Slayer" - with some minor improvements added
+
+# Youtube video
+https://www.youtube.com/watch?v=LOhfqjmasi0
